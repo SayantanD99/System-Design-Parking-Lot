@@ -21,3 +21,6 @@ This repository contains a simplified version of a parking lot system. It's desi
 - Slot Picking Algorithm can be configurable.
 
 ## Class Diagram :
+
+![Parking Lot Class Diagram](https://github.com/SayantanD99/System-Design-Parking-Lot/assets/32683338/8accc0b9-c69b-4b83-a4ad-fe97e0e92441)
+
